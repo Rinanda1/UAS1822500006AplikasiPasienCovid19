@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Uas1822500006AplikasiPasienCovid19</string>
+
+    <string-array name="kecamatan">
+        <item>Riau Silip</item>
+        <item>Belinyu</item>
+        <item>Sungailiat</item>
+        <item>pangkalpinang</item>
+        <item>Pemali</item>
+    </string-array>
+
+    <string-array name="kelurahan">
+        <item>Riau</item>
+        <item>Lepar</item>
+        <item>Orom</item>
+        <item>Gabek</item>
+        <item>AikRuai</item>
+    </string-array>
+
+</resources>
